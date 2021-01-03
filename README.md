@@ -5,4 +5,7 @@ Web design can rightly be viewed as tangential to a data analyst. HTML is, at be
 Another reason to learn HTML is, as demonstrated in this project, that a data analyst might wat to be able to directly communicate their findings to the public; and web pages are a convenient manner to do this. 
 
 ## HTML
-Web Design requires a trifecta of programming languagesthat each serve a niche function: HTML, CSS, and Javascript. Hypertext Markup Language (HTML)  is important primarily because it forms the structural skeleton of the web pages that populate the Internet. 
+Web Design requires a trifecta of programming languages hat each serve a niche function: HTML, CSS, and Javascript. Hypertext Markup Language (HTML)  is important primarily because it forms the structural skeleton of the web pages that populate the Internet. HTML defines the outline of every visible component of a web page including but not limited to text,toolbars, images, buttons, etc. This mini-project utilizes primarily HTML to make several pages for a project website. HTML tags defie the navbar, imagem text, and sectioning of the pages made for this example. 
+
+#CSS
+Cascading Style Sheets or CSS complements HTML. Whereas HTML defines the structure of a webpage; CSS is about presentation. CSS styles webpages by adding color, formatting, sizing, and other visual elements to an HTML skeleton
