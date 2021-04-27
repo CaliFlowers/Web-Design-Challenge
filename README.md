@@ -15,6 +15,8 @@ Another reason to learn HTML is, as demonstrated in this project, that a data an
 Weatherworld is a previous mini=project re-presented as a project website on GitHub pages. Weatherworld uses global weather data obtained on November 22, 2020
  at 7:52 AM, GMT to visualize and explain four different weather phenomena and their relationship with certain geographic qualities
  
+ ![](Images/comparison-lg.png)
+ 
 ## HTML
 Web Design requires a trifecta of programming tools that each serve a niche function: HTML, CSS, and Javascript. Hypertext Markup Language (HTML)  is important primarily because it forms the structural skeleton of the web pages that populate the Internet. HTML defines the outline of every visible component of a web page including but not limited to text,toolbars, images, buttons, etc. This mini-project utilizes primarily HTML to make several pages for a project website. HTML tags defie the navbar, imagem text, and sectioning of the pages made for this example. 
 
