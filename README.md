@@ -30,4 +30,5 @@ Javascript is the final leg of the trifecta of programming tools used for webpag
 The Web Design trifecta are three discrete tools. However, a tool called Bootstrap integrates all three tools to simplify the process of web design. Bootstrap components provide most of the HTML needed to create a functional skeleton; while providing just eough CSS for a minimalist aesthetic. Lastly, Bootstrap provides the Javascipt necessary to make webpages responsive to changes in screen sizes. For a data analyst who would prefer to specialize in tasks germane to dta analytics, Bootstrap is a useful tool  for designing project web sites for the purpose of simply communicating their work. 
 
 In this example, the most extensive uses of Bootstrap are evident in the Navbar, a Bootstrap component, and the use of the Bootstrap grid to structure the contents of the webpages deployed. 
+
 ![](Images/nav-sm.png)
